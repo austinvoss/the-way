@@ -9,6 +9,7 @@ export default function App() {
           {index + 1}
         </div>
       ))}
+      <h1 className="text-center text-6xl col-span-12">The Way</h1>
     </div>
   );
 }
